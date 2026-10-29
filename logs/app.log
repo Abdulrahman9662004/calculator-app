@@ -1,0 +1,12 @@
+2026-10-11 16:22:53 ERROR com.student.calculator - Division by zero: a=10, b=0
+2026-10-11 16:32:54 INFO  com.student.Main - === Starting Application ===
+2026-10-11 16:32:54 INFO  com.student.Main - Addition result: 15
+2026-10-11 16:32:54 INFO  com.student.Main - Division result: 5
+2026-10-11 16:32:54 INFO  com.student.Main - Testing division by zero...
+2026-10-11 16:32:54 ERROR com.student.calculator - Division by zero: a=10, b=0
+2026-10-11 16:32:54 ERROR com.student.Main - Caught exception in Main during division: Cannot divide by zero
+java.lang.ArithmeticException: Cannot divide by zero
+	at com.student.calculator.divide(calculator.java:21) ~[classes/:?]
+	at com.student.Main.main(Main.java:26) [classes/:?]
+2026-10-11 16:32:54 INFO  com.student.Main - === Application Finished ===
+2026-10-29 08:23:45 ERROR com.student.calculator - Division by zero: a=10, b=0
