@@ -37,16 +37,6 @@
         <version>2.22.0</version>
     </dependency>
 
-
-
-
-    <dependency>
-      <groupId>junit</groupId>
-      <artifactId>junit</artifactId>
-      <version>4.11</version>
-      <scope>test</scope>
-    </dependency>
-
     <!-- اضافتي لل 5.10.0-->
     <dependency>
     <groupId>org.junit.jupiter</groupId>
