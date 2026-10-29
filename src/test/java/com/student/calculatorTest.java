@@ -21,7 +21,7 @@ public class calculatorTest {
     @Test
     public void testMultiply() {
         calculator calc = new calculator();
-        assertEquals(6, calc.multiply(2, 3));
+        assertEquals(6, calc.multiply(5, 3));
     }
 
     @Test
